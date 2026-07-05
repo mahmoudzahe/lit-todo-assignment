@@ -145,16 +145,3 @@ lit-todo/
         ├── todo-list.js
         └── todo-item.js
 ```
-
-## Technologies Used
-
-- Lit
-- JavaScript
-- Web Components
-- HTML
-- CSS
-- Vite
-
-## Note
-
-The tasks are stored in the application state only. They are reset when the page is refreshed because permanent storage was not required for this assignment.
